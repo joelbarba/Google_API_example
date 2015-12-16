@@ -12,7 +12,7 @@
 
 		$(function() {
 			// gapi.load('auth', init);
-			// Modified again and pushed to Buddy
+			// Modified into Buddy
 		});
 
 		function checkAuth() {
